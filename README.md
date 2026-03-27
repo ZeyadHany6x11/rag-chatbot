@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Here’s a clean, professional, and beginner-friendly README.md you can use for your RAG-Powered Customer Support Chatbot project on GitHub:
 
 ⸻
@@ -131,3 +132,6 @@ Feel free to fork, extend, and build your own RAG apps!
 📜 License
 
 MIT License – free to use, modify, and distribute.
+=======
+# rag-chatbot
+>>>>>>> 614c2a2fef7ec1a098ab669dbb8f762f9f6095af
