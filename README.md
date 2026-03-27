@@ -113,19 +113,6 @@ Try asking:
 ✅ Inline source chunk display
 ✅ OpenAI GPT-4o-mini integration
 ✅ Lightweight & fast (under 100MB)
-
-⸻
-
-🧑‍💻 Author
-
-Made with ❤️ by Aditya Kumar
-Feel free to fork, extend, and build your own RAG apps!
-
-⸻
-
-📜 License
-
-MIT License – free to use, modify, and distribute.
 =======
 # rag-chatbot
->>>>>>> 614c2a2fef7ec1a098ab669dbb8f762f9f6095af
+
