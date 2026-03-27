@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-Here’s a clean, professional, and beginner-friendly README.md you can use for your RAG-Powered Customer Support Chatbot project on GitHub:
-
-⸻
-
-
 # 🤖 RAG-Powered Customer Support Chatbot
 
 This is a minimal yet powerful **RAG (Retrieval-Augmented Generation)** chatbot built using **Streamlit**, **FAISS**, **sentence-transformers**, and **OpenAI GPT** models. It helps answer customer support questions by grounding responses in actual company documents.
@@ -18,8 +12,8 @@ This is a minimal yet powerful **RAG (Retrieval-Augmented Generation)** chatbot 
 
 ## 🚀 Live Demo
 
-🟢 [Launch the App](https://your-username-rag-chatbot.streamlit.app)  
-*(Replace this with your actual Streamlit Cloud URL)*
+🟢 [Launch the App](https://rag-chatbot-nrkd3tb8gx3vjceqtxa2xb.streamlit.app)  
+
 
 ---
 
