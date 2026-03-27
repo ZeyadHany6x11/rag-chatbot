@@ -7,13 +7,11 @@ This is a minimal yet powerful **RAG (Retrieval-Augmented Generation)** chatbot 
 - Product troubleshooting
 - Internal helpdesk chatbot
 - Retrieval-based GenAI demos
-
 ---
 
 ## 🚀 Live Demo
 
 🟢 [Launch the App](https://rag-chatbot-nrkd3tb8gx3vjceqtxa2xb.streamlit.app)  
-
 
 ---
 
@@ -113,6 +111,5 @@ Try asking:
 ✅ Inline source chunk display
 ✅ OpenAI GPT-4o-mini integration
 ✅ Lightweight & fast (under 100MB)
-=======
-# rag-chatbot
+
 
